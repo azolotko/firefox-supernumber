@@ -1,22 +1,22 @@
 {
-  "name": "firefox-ctrlnumber",
+  "name": "firefox-supernumber",
   "version": "1.0.2",
-  "description": "Adds keyboard shortcut Ctrl+1 to switch to the first tab, Ctrl+2 to switch to the second, and so on. Ctrl+9 switches to the last tab.",
-  "main": "ctrlnumber.js",
+  "description": "Adds keyboard shortcut Super+1 to switch to the first tab, Super+2 to switch to the second, and so on. Super+9 switches to the last tab.",
+  "main": "supernumber.js",
   "scripts": {
     "test": "jsonlint --quiet *.json src/*.json && eslint . && web-ext lint --warnings-as-errors --no-input=true --source-dir src",
     "build": "web-ext build --overwrite-dest --no-input=true --source-dir src"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbigailBuccaneer/firefox-ctrlnumber.git"
+    "url": "git://github.com:azolotko/firefox-supernumber"
   },
-  "author": "AbigailBuccaneer",
+  "author": "Alex Zolotko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AbigailBuccaneer/firefox-ctrlnumber/issues"
+    "url": "https://github.com/azolotko/firefox-supernumber/issues"
   },
-  "homepage": "https://github.com/AbigailBuccaneer/firefox-ctrlnumber#readme",
+  "homepage": "https://github.com/azolotko/firefox-supernumber#readme",
   "devDependencies": {
     "eslint": "^8.53.0",
     "jsonlint": "^1.6.3",
