@@ -13,4 +13,4 @@ This extension can be installed from the Firefox Add-ons site.
 
 ## Credits
 
-This extension is a shallow fork of [AbigailBuccaneer/firefox-ctrlnumber](https://github.com/AbigailBuccaneer/firefox-ctrlnumber). All real work has been done by AbigailBuccaneer.
+This extension is a shallow fork of [AbigailBuccaneer/firefox-ctrlnumber](https://github.com/AbigailBuccaneer/firefox-ctrlnumber). All the real work has been done by AbigailBuccaneer.
