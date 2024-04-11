@@ -1,6 +1,6 @@
 {
   "name": "firefox-supernumber",
-  "version": "1.0.2",
+  "version": "0.0.2",
   "description": "Adds keyboard shortcut Super+1 to switch to the first tab, Super+2 to switch to the second, and so on. Super+9 switches to the last tab.",
   "main": "supernumber.js",
   "scripts": {

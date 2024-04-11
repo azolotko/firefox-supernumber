@@ -59,6 +59,18 @@
       "suggested_key": {
         "default": "Command+9"
       }
+    },
+    "switch-tab-previous": {
+      "description": "Switch to the previous tab",
+      "suggested_key": {
+        "default": "Command+Shift+Comma"
+      }
+    },
+    "switch-tab-next": {
+      "description": "Switch to the next tab",
+      "suggested_key": {
+        "default": "Command+Shift+Period"
+      }
     }
   },
   "description": "This extension adds keyboard shortcuts to switch tabs. Super+1 switches to the first tab, Super+2 switches to the second tab, and so on. Super+9 switches to the last tab.",
@@ -66,5 +78,5 @@
   "manifest_version": 2,
   "name": "Super+Number to switch tabs",
   "short_name": "Super+Number",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
